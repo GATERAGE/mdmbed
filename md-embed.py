@@ -1,3 +1,5 @@
+# mdmbed (c) 2005 w3d
+
 import json
 import re
 import os
